@@ -1,2 +1,2 @@
 # CS401-GIT-HW
-This is where Homework 1 will be.
+This repository will contain course work from CS 401: Software Engineering & Design.
