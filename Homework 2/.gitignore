@@ -1,1 +1,4 @@
-
+data/
+venv/
+data.txt
+results.txt
